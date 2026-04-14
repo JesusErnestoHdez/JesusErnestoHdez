@@ -1,140 +1,83 @@
 <div align="center">
 
-```
+<a href="https://github.com/JesusErnestoHdez">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <img alt="header" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
+</a>
+
+</div>
+
+<div align="center">
+
 ⚔️  JesusErnestoHdez  ⚔️
-```
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%F0%9F%A7%99;PHP+%7C+Angular+%7C+Ionic+%7C+Laravel;Forjando+software+desde+M%C3%A9xico+%F0%9F%87%B2%F0%9F%87%BD;GHOST+Balder+%E2%9A%94%EF%B8%8F+en+cada+reino;Code+by+day%2C+RPG+by+night+%F0%9F%94%A5)
-
-</div>
-
----
-
-<div align="center">
-
-### 🗺️ Sobre este aventurero
-
-</div>
-
-```
- ┌────────────────────────────────────────────────────────────────┐
- │                                                                │
- │   Nombre:    Jesús Ernesto Hernández                          │
- │   Alias:     GHOST BALDER                                     │
- │   Clase:     Fullstack Developer                              │
- │   Nivel:     20                                           │
- │   Misión:    Forjar software que perdure en el tiempo ⚔️       │
- │   Debilidad: RPGs oscuros a las 2am                           │
- │                                                                │
- └────────────────────────────────────────────────────────────────┘
-```
-
----
-
-<div align="center">
-
-### ⚔️ Arsenal de combate
-
-</div>
-
-<div align="center">
-
-**Frontend**
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend**
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-**Infraestructura & Magia Oscura**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white)
-
-**Bases de datos**
-
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
-
-**Plataformas móviles**
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%F0%9F%A7%99;Angular+%7C+Laravel+%7C+Ionic;Forjando+ideas+en+c%C3%B3digo;GHOST+Balder+en+cada+reino;Code+by+day+%2C+RPG+by+night)
 
 </div>
 
 ---
 
-<div align="center">
+### 🧙 Sobre este aventurero
+
+```yaml
+Nombre: Jesús Ernesto Hernández
+Alias: GHOST BALDER
+Clase: Fullstack Developer
+Nivel: 20
+Especialidad: Construcción de sistemas y automatización
+Estilo: Código limpio, soluciones prácticas
+Debilidad: RPGs oscuros a las 2am
+Filosofía: Crear, aprender, iterar
+```
+
+---
+
+### ⚔️ Skill Tree
+
+**🧠 Core**
+Angular · Laravel · Ionic
+
+**🔥 Combate cercano**
+TypeScript · PHP · Node.js
+
+**🛡️ Defensa**
+Docker · Linux · Caddy
+
+**🔮 Magia avanzada**
+n8n · Qdrant
+
+---
+
+### 🧩 Especialidades
+
+- ⚙️ Construcción de sistemas desde cero  
+- 🔄 Automatización de procesos  
+- 📱 Desarrollo de apps híbridas  
+- 🔌 Integraciones entre servicios y APIs  
+- 🧠 Resolución de problemas complejos  
+
+---
 
 ### 📊 Estadísticas del héroe
 
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JesusErnestoHdez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusErnestoHdez&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=JesusErnestoHdez&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD0031&ring=A855F7&sideNums=A855F7" />
-</div>
+https://github-readme-stats.vercel.app/api?username=JesusErnestoHdez
 
 ---
 
-<div align="center">
+### 🛠️ Actualmente forjando
+
+- ⚔️ Mejorando habilidades en arquitectura de software  
+- 🔮 Explorando automatización avanzada  
+- 🧠 Refinando patrones y buenas prácticas  
+
+---
 
 ### 🎮 Pergamino de aventuras
 
-</div>
-
-<div align="center">
-
-> *En cada servidor, en cada reino, en cada dungeon — el nombre es el mismo:* **GHOST Balder**
-
-| Juego | Clase | Estado |
-|-------|-------|--------|
-| 🧙 The Elder Scrolls | Mago Guerrero | `grind eterno` |
-| 🔥 Dark Souls | Piromántico | `muriendo repetidamente` |
-| ⚔️ Sekiro | Shinobi | `pared de jefe al 90%` |
-| 🩸 Dark and Darker | Bárbaro oscuro | `saqueando mazmorras` |
-| 🪖 Warhammer | Guerrero del caos | `por la gloria` |
-
-*Vibra general: grimdark · mazmorra · lore profundo · morir con honor*
-
-</div>
+GHOST Balder en cada reino.
 
 ---
 
-<div align="center">
-
-### 📜 Actividad reciente
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JesusErnestoHdez&theme=tokyo-night&hide_border=true&area=true&color=A855F7&line=A855F7&point=DD0031)
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=JesusErnestoHdez&color=blueviolet&style=for-the-badge&label=Aventureros+que+pasaron+por+aquí)
-
-**"El código limpio no se hereda, se conquista."**
-
-</div>
+“El código limpio no se escribe… se forja bajo presión.” ⚔️
