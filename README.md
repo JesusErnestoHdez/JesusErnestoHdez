@@ -20,9 +20,9 @@
  ┌────────────────────────────────────────────────────────────────┐
  │                                                                │
  │   Nombre:    Jesús Ernesto Hernández                          │
- │   Alias:     GHOST Balder                                     │
+ │   Alias:     GHOST BALDER                                     │
  │   Clase:     Fullstack Developer                              │
- │   Nivel:     Senior                                           │
+ │   Nivel:     20                                           │
  │   Misión:    Forjar software que perdure en el tiempo ⚔️       │
  │   Debilidad: RPGs oscuros a las 2am                           │
  │                                                                │
