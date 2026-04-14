@@ -94,14 +94,14 @@
 
 <div align="center">
 
-### 🏰 Proyecto principal — ticketapp.mx
+### 🏰 Quest principal — ticketapp.mx
 
 </div>
 
 ```
   ╔══════════════════════════════════════════════════════════════╗
   ║   🎟️  ticketapp.mx                                          ║
-  ║   Sistema de ticketing para eventos en México               ║
+  ║   Mi proyecto: venta de boletos para eventos en México      ║
   ║                                                             ║
   ║   Stack:  Angular · Laravel · PHP · Ionic · MySQL           ║
   ║   Deploy: Ubuntu 22.04 · Caddy · PM2 · Supervisor           ║
