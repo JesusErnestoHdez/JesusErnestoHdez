@@ -4,7 +4,7 @@
 ⚔️  JesusErnestoHdez  ⚔️
 ```
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%F0%9F%A7%99;PHP+%7C+Angular+%7C+Ionic+%7C+Laravel;Building+ticketapp.mx+%F0%9F%8E%9F%EF%B8%8F;Code+by+day%2C+RPG+by+night+%F0%9F%8E%AE)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%F0%9F%A7%99;PHP+%7C+Angular+%7C+Ionic+%7C+Laravel;Forjando+software+desde+M%C3%A9xico+%F0%9F%87%B2%F0%9F%87%BD;Code+by+day%2C+RPG+by+night+%F0%9F%8E%AE)
 
 </div>
 
@@ -22,7 +22,7 @@
  │   Nombre:    Jesús Ernesto Hernández                          │
  │   Clase:     Fullstack Developer                              │
  │   Nivel:     Senior                                           │
- │   Misión:    Construir ticketapp.mx desde las sombras 🎟️      │
+ │   Misión:    Forjar software que perdure en el tiempo ⚔️       │
  │   Debilidad: RPGs medievales a las 2am                        │
  │                                                                │
  └────────────────────────────────────────────────────────────────┘
@@ -94,27 +94,6 @@
 
 <div align="center">
 
-### 🏰 Quest principal — ticketapp.mx
-
-</div>
-
-```
-  ╔══════════════════════════════════════════════════════════════╗
-  ║   🎟️  ticketapp.mx                                          ║
-  ║   Mi proyecto: venta de boletos para eventos en México      ║
-  ║                                                             ║
-  ║   Stack:  Angular · Laravel · PHP · Ionic · MySQL           ║
-  ║   Deploy: Ubuntu 22.04 · Caddy · PM2 · Supervisor           ║
-  ║   AI:     n8n · Qdrant · SBERT · Embeddings                 ║
-  ║                                                             ║
-  ║   Status:  ██████████████████░░  En producción 🚀           ║
-  ╚══════════════════════════════════════════════════════════════╝
-```
-
----
-
-<div align="center">
-
 ### 🎮 Misiones secundarias (juegos favoritos)
 
 </div>
@@ -151,9 +130,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=JesusErnestoHdez&color=blueviolet&style=for-the-badge&label=Aventureros+que+pasaron+por+aquí)
 
 **"El código limpio no se hereda, se conquista."**
-
-*⚔️ Disponible para quests freelance ⚔️*
-
-[![ticketapp.mx](https://img.shields.io/badge/🎟️_ticketapp.mx-Live-success?style=for-the-badge)](https://ticketapp.mx)
 
 </div>
