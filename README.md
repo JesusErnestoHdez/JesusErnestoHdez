@@ -4,7 +4,7 @@
 ⚔️  JesusErnestoHdez  ⚔️
 ```
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%F0%9F%A7%99;PHP+%7C+Angular+%7C+Ionic+%7C+Laravel;Forjando+software+desde+M%C3%A9xico+%F0%9F%87%B2%F0%9F%87%BD;Code+by+day%2C+RPG+by+night+%F0%9F%8E%AE)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%F0%9F%A7%99;PHP+%7C+Angular+%7C+Ionic+%7C+Laravel;Forjando+software+desde+M%C3%A9xico+%F0%9F%87%B2%F0%9F%87%BD;GHOST+Balder+%E2%9A%94%EF%B8%8F+en+cada+reino;Code+by+day%2C+RPG+by+night+%F0%9F%94%A5)
 
 </div>
 
@@ -20,10 +20,11 @@
  ┌────────────────────────────────────────────────────────────────┐
  │                                                                │
  │   Nombre:    Jesús Ernesto Hernández                          │
+ │   Alias:     GHOST Balder                                     │
  │   Clase:     Fullstack Developer                              │
  │   Nivel:     Senior                                           │
  │   Misión:    Forjar software que perdure en el tiempo ⚔️       │
- │   Debilidad: RPGs medievales a las 2am                        │
+ │   Debilidad: RPGs oscuros a las 2am                           │
  │                                                                │
  └────────────────────────────────────────────────────────────────┘
 ```
@@ -94,18 +95,23 @@
 
 <div align="center">
 
-### 🎮 Misiones secundarias (juegos favoritos)
+### 🎮 Pergamino de aventuras
 
 </div>
 
 <div align="center">
 
-| Juego | Clase favorita | Horas invertidas |
-|-------|----------------|-----------------|
-| ⚔️ The Elder Scrolls | Guerrero mago | `∞` |
-| 🐉 Dark Souls | Que me matan | `demasiadas` |
-| 🏰 Dragon Age | Mago especialista | `perdidas en el tiempo` |
-| 🗡️ Baldur's Gate 3 | Clérigo oscuro | `en progreso...` |
+> *En cada servidor, en cada reino, en cada dungeon — el nombre es el mismo:* **GHOST Balder**
+
+| Juego | Clase | Estado |
+|-------|-------|--------|
+| 🧙 The Elder Scrolls | Mago Guerrero | `grind eterno` |
+| 🔥 Dark Souls | Piromántico | `muriendo repetidamente` |
+| ⚔️ Sekiro | Shinobi | `pared de jefe al 90%` |
+| 🩸 Dark and Darker | Bárbaro oscuro | `saqueando mazmorras` |
+| 🪖 Warhammer | Guerrero del caos | `por la gloria` |
+
+*Vibra general: grimdark · mazmorra · lore profundo · morir con honor*
 
 </div>
 
