@@ -22,7 +22,6 @@
  │   Nombre:    Jesús Ernesto Hernández                          │
  │   Clase:     Fullstack Developer                              │
  │   Nivel:     Senior                                           │
- │   Gremio:    TicketApp Empresa                                │
  │   Misión:    Construir ticketapp.mx desde las sombras 🎟️      │
  │   Debilidad: RPGs medievales a las 2am                        │
  │                                                                │
