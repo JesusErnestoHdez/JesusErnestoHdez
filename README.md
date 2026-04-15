@@ -1,5 +1,12 @@
 <div align="center">
 
+<a href="https://github.com/JesusErnestoHdez">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <img alt="snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
+</a>
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:4b0082,100:8b00ff&height=180&section=header&text=GHOST%20Balder&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=JesusErnestoHdez%20%E2%80%94%20Fullstack%20Developer&descAlignY=62&descSize=16&animation=fadeIn)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Fullstack+Developer+%F0%9F%A7%99;Angular+%7C+Laravel+%7C+Ionic;Forjando+ideas+en+c%C3%B3digo+%E2%9A%94%EF%B8%8F;GHOST+Balder+en+cada+reino;Code+by+day+%2C+RPG+by+night+%F0%9F%94%A5)
@@ -67,20 +74,7 @@ Filosofía:    Crear, aprender, iterar ⚔️
 
 ---
 
-### 📊 Estadísticas del héroe
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JesusErnestoHdez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusErnestoHdez&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-<img src="https://streak-stats.demolab.com?user=JesusErnestoHdez&theme=tokyonight&hide_border=true&fire=DD0031&ring=A855F7&sideNums=A855F7&currStreakLabel=A855F7"/>
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=JesusErnestoHdez&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=7)
-
-</div>
-
----
 
 ### 🛠️ Actualmente forjando
 
@@ -105,17 +99,6 @@ Filosofía:    Crear, aprender, iterar ⚔️
 *Vibra perpetua: grimdark · dungeon crawl · lore profundo · morir con honor*
 
 ---
-
-### 🐍 Contribuciones
-
-<div align="center">
-  <a href="https://github.com/JesusErnestoHdez">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-      <img alt="snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    </picture>
-  </a>
-</div>
 
 ---
 
